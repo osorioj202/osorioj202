@@ -1,24 +1,32 @@
-# Bienvenido/a a mi perfil de GitHub
+<!-- Encabezado de la página -->
+<h1 align="center">¡Hola! 👋 Soy [tu nombre aquí]</h1>
+<h3 align="center">Un/a [tu profesión aquí] interesado/a en [tus áreas de interés].</h3>
 
-¡Hola! Soy [tu nombre aquí], un/a [tu profesión aquí] interesado/a en [tus áreas de interés]. En mi tiempo libre, me gusta [tus hobbies o pasatiempos].
+<!-- Iconos de habilidades -->
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" width="40" height="40"/>
+</p>
 
-## Mis proyectos destacados
+<!-- Descripción -->
+<p align="center">En mi tiempo libre, me gusta [tus hobbies o pasatiempos].</p>
 
-- [Nombre del proyecto 1](enlace al proyecto)
-- [Nombre del proyecto 2](enlace al proyecto)
-- [Nombre del proyecto 3](enlace al proyecto)
+<!-- Proyectos destacados -->
+<h3 align="center">Mis proyectos destacados</h3>
+<p align="center">
+  <a href="[enlace al proyecto]">Nombre del proyecto 1</a> |
+  <a href="[enlace al proyecto]">Nombre del proyecto 2</a> |
+  <a href="[enlace al proyecto]">Nombre del proyecto 3</a>
+</p>
 
-## Mis habilidades
+<!-- Contáctame -->
+<h3 align="center">Contáctame</h3>
+<p align="center">
+  <a href="mailto:[tu correo electrónico]">Correo electrónico</a> |
+  <a href="[tu sitio web]">Sitio web</a> |
+  <a href="[enlace a tu perfil de LinkedIn]">LinkedIn</a> |
+  <a href="[enlace a tu perfil de Twitter]">Twitter</a>
+</p>
 
-- [Habilidad 1]
-- [Habilidad 2]
-- [Habilidad 3]
-- ...
-
-## Contáctame
-
-- [Correo electrónico](tu correo electrónico)
-- [Sitio web](tu sitio web)
-- [LinkedIn](enlace a tu perfil de LinkedIn)
-- [Twitter](enlace a tu perfil de Twitter)
 
