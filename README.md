@@ -1,6 +1,6 @@
 <!-- Encabezado de la página -->
 <h1 align="center">¡Hola! 👋 Soy Juan Osorio Alvarez</h1>
-<h3 align="center">Un/a Electromechanic technician just starting in this amazing worl of development interesado/a en [tus áreas de interés].</h3>
+<h3 align="center">An Electromechanic technician just starting in this amazing worl of development interested in becoming a full stack developer.</h3>
 
 <!-- Iconos de habilidades -->
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <!-- Descripción -->
-<p align="center">En mi tiempo libre, me gusta [tus hobbies o pasatiempos].</p>
+<p align="center">On my free time I study a lot and I like watching series and listening to music.</p>
 
 <!-- Proyectos destacados -->
 <h3 align="center">Mis proyectos destacados</h3>
