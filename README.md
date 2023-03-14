@@ -1,6 +1,6 @@
 <!-- Encabezado de la página -->
-<h1 align="center">¡Hola! 👋 Soy [tu nombre aquí]</h1>
-<h3 align="center">Un/a [tu profesión aquí] interesado/a en [tus áreas de interés].</h3>
+<h1 align="center">¡Hola! 👋 Soy Juan Osorio Alvarez</h1>
+<h3 align="center">Un/a Electromechanic technician just starting in this amazing worl of development interesado/a en [tus áreas de interés].</h3>
 
 <!-- Iconos de habilidades -->
 <p align="center">
