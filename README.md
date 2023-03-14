@@ -15,7 +15,9 @@
 <!-- Proyectos destacados -->
 <h3 align="center">Mis proyectos destacados</h3>
 <p align="center">
-  <a href="[enlace al proyecto]">App-de-Geometria</a> |
+  <a href="[enlace al proyecto]">osorioj202
+/
+App-de-Geometria</a> |
   <a href="[enlace al proyecto]">Nombre del proyecto 2</a> |
   <a href="[enlace al proyecto]">Nombre del proyecto 3</a>
 </p>
