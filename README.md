@@ -15,7 +15,7 @@
 <!-- Proyectos destacados -->
 <h3 align="center">Mis proyectos destacados</h3>
 <p align="center">
-  <a href="[https://github.com/osorioj202/App-de-Geometria]">osorioj202
+  <a href="https://github.com/osorioj202/App-de-Geometria">osorioj202
 /
 App-de-Geometria</a> |
   <a href="[enlace al proyecto]">Nombre del proyecto 2</a> |
