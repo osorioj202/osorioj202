@@ -15,8 +15,8 @@
 <!-- Proyectos destacados -->
 <h3 align="center">Mis proyectos destacados</h3>
 <p align="center">
-  <a href="osorioj202/Mi-Portafolio.io"></a> |
-  <a href="osorioj202/App-de-Geometria.io</a> |
+  <a href="osorioj202/Mi-Portafolio.io"></a>
+  <a href="osorioj202/App-de-Geometria.io</a> 
   <a href="osorioj202/buildingVideogame.io</a>
 </p>
 
