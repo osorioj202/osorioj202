@@ -1,6 +1,6 @@
 <!-- Encabezado de la página -->
 <h1 align="center">¡Hola! 👋 Soy Juan Osorio Alvarez</h1>
-<h3 align="center">An Electromechanic technician just starting in this amazing worl of development interested in becoming a full stack developer.</h3>
+<h3 align="center">An Web developer | HTML, CSS, JavaScript Technologies</h3>
 
 <!-- Iconos de habilidades -->
 <p align="center">
@@ -15,11 +15,9 @@
 <!-- Proyectos destacados -->
 <h3 align="center">Mis proyectos destacados</h3>
 <p align="center">
-  <a href="https://github.com/osorioj202/App-de-Geometria">osorioj202
-/
-App-de-Geometria</a> |
-  <a href="[enlace al proyecto]">Nombre del proyecto 2</a> |
-  <a href="[enlace al proyecto]">Nombre del proyecto 3</a>
+  <a href="osorioj202/Mi-Portafolio.io"></a> |
+  <a href="osorioj202/App-de-Geometria.io</a> |
+  <a href="osorioj202/buildingVideogame.io</a>
 </p>
 
 <!-- Contáctame -->
