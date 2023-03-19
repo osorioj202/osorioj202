@@ -21,7 +21,7 @@
 <h3 align="center">Contáctame</h3>
 <p align="center">
   <a href="mailto:osorioj202@gmail.com">Correo electrónico</a> |
-  <a href="https://github.com/osorioj202/Mi-Portafolio.io">Sitio web</a> |
+  <a href="https://osorioj202.github.io/Mi-Portafolio.io/">Sitio web</a> |
   <a href="https://www.linkedin.com/in/juan-oaosrio-538197184">LinkedIn</a> |
   <a href="@Juanoso79795939">Twitter</a>
 </p>
