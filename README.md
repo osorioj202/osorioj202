@@ -14,7 +14,8 @@
 <p align="center">
   <a href="https://github.com/osorioj202/Mi-Portafolio.io">Mi Portafolio</a> |
   <a href="https://github.com/osorioj202/App-de-Geometria.io">App de Geometría</a> | 
-  <a href="https://github.com/osorioj202/buildingVideogame.io">Building Videogame</a>
+  <a href="https://mycodex-euwy.onrender.com">My CodeX App</a>
+  
 </p>
 
 <!-- Contáctame -->
