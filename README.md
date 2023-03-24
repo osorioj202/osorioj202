@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://github.com/osorioj202/Mi-Portafolio.io">Mi Portafolio</a> |
   <a href="https://github.com/osorioj202/App-de-Geometria.io">App de Geometría</a> | 
-  <a href="https://vercel.com/osorioj202/my-code-x-io">My CodeX App</a>
+  <a href="https://my-code-x-io.vercel.app/">My CodeX App</a>
   
 </p>
 
